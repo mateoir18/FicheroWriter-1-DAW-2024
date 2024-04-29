@@ -1,0 +1,4 @@
+Persona [nombre=Mateo, edad=22, ciudad=Oviedo]
+Persona [nombre=Juan, edad=25, ciudad=Gijon]
+Persona [nombre=Pepe, edad=30, ciudad=Dallas]
+Persona [nombre=Diego, edad=27, ciudad=Los Angeles]
